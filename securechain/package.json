@@ -38,6 +38,7 @@
     "react-redux": "^9.2.0",
     "react-router-dom": "^7.3.0",
     "react-speech-recognition": "^3.10.0",
+    "recharts": "^2.15.2",
     "redux": "^5.0.1",
     "redux-persist": "^6.0.0",
     "regenerator-runtime": "^0.14.1",

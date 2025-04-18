@@ -78,9 +78,9 @@ const Home = () => {
             <a href="/dashboard" className="text-blue-600 hover:text-blue-800 font-medium">Dashboard</a>
             <a href="/detection" className="text-blue-600 hover:text-blue-800 font-medium">Intrusion Detection</a>
             <a href="/blockchain-ledger" className="text-blue-600 hover:text-blue-800 font-medium">Blockchain Ledger</a>
-            <a href="/alerts" className="text-blue-600 hover:text-blue-800 font-medium">Alerts</a>
+            <a href="/alert" className="text-blue-600 hover:text-blue-800 font-medium">Alerts</a>
             <a href="/analytics" className="text-blue-600 hover:text-blue-800 font-medium">Analytics</a>
-            <a href="/settings" className="text-blue-600 hover:text-blue-800 font-medium">Settings</a>
+            <a href="/assistant" className="text-blue-600 hover:text-blue-800 font-medium">Security Assistant</a>
             <button className="bg-blue-600 text-white px-6 py-2 rounded-full font-medium hover:bg-blue-700 transition-colors">
               Get Started
             </button>
